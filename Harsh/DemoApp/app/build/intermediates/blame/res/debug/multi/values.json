@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 35,
+                    "endOffset": 86
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 753,
+                        "endColumn": 35,
+                        "endOffset": 784
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 91,
+                    "endColumn": 46,
+                    "endOffset": 133
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 109,
+                        "endColumn": 46,
+                        "endOffset": 151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 138,
+                    "endColumn": 37,
+                    "endOffset": 171
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1012,
+                        "endColumn": 37,
+                        "endOffset": 1045
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 176,
+                    "endColumn": 41,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 789,
+                        "endColumn": 41,
+                        "endOffset": 826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 218,
+                    "endColumn": 53,
+                    "endOffset": 267
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 53,
+                        "endOffset": 104
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 272,
+                    "endColumn": 41,
+                    "endOffset": 309
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 41,
+                        "endOffset": 417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 314,
+                    "endColumn": 47,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 47,
+                        "endOffset": 512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 41,
+                    "endOffset": 399
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 831,
+                        "endColumn": 41,
+                        "endOffset": 868
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 404,
+                    "endColumn": 45,
+                    "endOffset": 445
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 423,
+                        "endColumn": 45,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 450,
+                    "endColumn": 63,
+                    "endOffset": 509
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 685,
+                        "endColumn": 63,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 514,
+                    "endColumn": 48,
+                    "endOffset": 558
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 331,
+                        "endColumn": 48,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 563,
+                    "endColumn": 54,
+                    "endOffset": 613
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 957,
+                        "endColumn": 54,
+                        "endOffset": 1007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 618,
+                    "endColumn": 51,
+                    "endOffset": 665
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 517,
+                        "endColumn": 51,
+                        "endOffset": 564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 670,
+                    "endColumn": 55,
+                    "endOffset": 721
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 569,
+                        "endColumn": 55,
+                        "endOffset": 620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 726,
+                    "endColumn": 59,
+                    "endOffset": 781
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 625,
+                        "endColumn": 59,
+                        "endOffset": 680
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 786,
+                    "endColumn": 57,
+                    "endOffset": 839
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 57,
+                        "endOffset": 209
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 844,
+                    "endColumn": 57,
+                    "endOffset": 897
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 57,
+                        "endOffset": 325
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 902,
+                    "endColumn": 57,
+                    "endOffset": 955
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 214,
+                        "endColumn": 57,
+                        "endOffset": 267
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 960,
+                    "endColumn": 37,
+                    "endOffset": 993
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 873,
+                        "endColumn": 37,
+                        "endOffset": 906
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 998,
+                    "endColumn": 45,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 911,
+                        "endColumn": 45,
+                        "endOffset": 952
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/build/intermediates/res/merged/debug/layout/subject_details.xml",
+        "source": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/layout/subject_details.xml"
+    },
+    {
+        "merged": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/build/intermediates/res/merged/debug/layout/table_add.xml",
+        "source": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/layout/table_add.xml"
+    },
+    {
+        "merged": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/build/intermediates/res/merged/debug/layout/student_details.xml",
+        "source": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/layout/student_details.xml"
+    },
+    {
+        "merged": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/build/intermediates/res/merged/debug/layout/teacher_details.xml",
+        "source": "/Users/VARIANCEINFOTECH/Desktop/DemoApp/app/src/main/res/layout/teacher_details.xml"
+    }
+]
